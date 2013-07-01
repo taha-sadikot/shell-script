@@ -1,0 +1,71 @@
+Hostname:
+webonise-desktop
+Mon Jul  1 12:54:39 IST 2013
+ 
+Type and Version of OS:
+Linux #74-Ubuntu SMP Thu Jun 6 19:43:26 UTC 2013
+Mon Jul  1 12:54:39 IST 2013
+ 
+Full Path of Home Directory:
+/home/webonise
+Mon Jul  1 12:54:39 IST 2013
+ 
+Other Users Logged On:
+webonise tty7         2013-07-01 10:30  old         3267
+webonise pts/0        2013-07-01 11:45   .          5463 (:0.0)
+Mon Jul  1 12:54:39 IST 2013
+ 
+Groups I belong to:
+webonise adm cdrom sudo dip plugdev lpadmin sambashare
+Mon Jul  1 12:54:39 IST 2013
+ 
+Files(not directories) Stored in this directory:
+0	./empty.txt
+4	./shell_script_1.sh
+4	./assignment1.log
+4	./.git/objects/ab/fe6c9ac74f504b9cfdf4787ca2dc41e902aa2e
+4	./.git/objects/aa/36d2d4f170fe96338fd357ab770865f02e1636
+4	./.git/objects/70/15cf066692cff6f1cc228eeb31632b73cef98a
+4	./.git/objects/24/69e5da90c2df3b24c0e2a5586e0a995f27222f
+4	./.git/objects/da/15f4a1812ae242d089f07115f363075d7ed75a
+4	./.git/objects/45/1e54d4d180cb9fe6a48f8eea405d85c5b0d712
+4	./.git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+4	./.git/info/exclude
+4	./.git/ORIG_HEAD
+4	./.git/hooks/commit-msg.sample
+4	./.git/hooks/post-update.sample
+4	./.git/hooks/update.sample
+4	./.git/hooks/pre-commit.sample
+4	./.git/hooks/applypatch-msg.sample
+8	./.git/hooks/pre-rebase.sample
+4	./.git/hooks/pre-applypatch.sample
+4	./.git/hooks/prepare-commit-msg.sample
+4	./.git/config
+4	./.git/logs/HEAD
+4	./.git/logs/refs/remotes/origin/develop
+4	./.git/logs/refs/remotes/origin/staging
+4	./.git/logs/refs/remotes/origin/testing
+4	./.git/logs/refs/remotes/origin/master
+4	./.git/logs/refs/heads/develop
+4	./.git/logs/refs/heads/test
+4	./.git/logs/refs/heads/staging
+4	./.git/logs/refs/heads/testing
+4	./.git/logs/refs/heads/first_assignment
+4	./.git/logs/refs/heads/master
+4	./.git/FETCH_HEAD
+4	./.git/HEAD
+4	./.git/description
+4	./.git/index
+4	./.git/refs/remotes/origin/develop
+4	./.git/refs/remotes/origin/staging
+4	./.git/refs/remotes/origin/testing
+4	./.git/refs/remotes/origin/master
+4	./.git/refs/heads/develop
+4	./.git/refs/heads/test
+4	./.git/refs/heads/staging
+4	./.git/refs/heads/testing
+4	./.git/refs/heads/first_assignment
+4	./.git/refs/heads/master
+4	./.git/COMMIT_EDITMSG
+Mon Jul  1 12:54:40 IST 2013
+ 
